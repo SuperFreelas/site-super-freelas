@@ -1,6 +1,3 @@
-# Excluir imagens grandes temporariamente
-images/*.png
-
 # Arquivos do sistema
 .DS_Store
 **/.DS_Store
