@@ -1,0 +1,13 @@
+# Excluir imagens grandes temporariamente
+images/*.png
+
+# Arquivos do sistema
+.DS_Store
+**/.DS_Store
+
+# Arquivos temporários
+temp/
+tmp_*
+
+# Arquivos compactados
+*.zip 
